@@ -18,4 +18,4 @@ JUT.SU auto play,skips opening
 * AdGuard: (дополнительное программное обеспечение не требуется)
 
 
-Для установки перейдите в https://github.com/Xeltone/Jut.su/blob/main/Jutsu%20Helper.js
+Для установки перейдите в [https://github.com/Xeltone/Jut.su/blob/main/Jutsu%20Helper.js](https://raw.githubusercontent.com/Xeltone/Jut.su/main/Jutsu%20Helper.js)
