@@ -1,5 +1,5 @@
-# JUT.SU-auto-play-skips-opening
-JUT.SU auto play,skips opening
+# Jut.su Helper
+Jut.su auto skip, next anime full window
 
 Скрипт пропускает началные заставки и титры, также автоматически переходит к следующей серии.
 Что бы следующая серия открывалась на весь экран, советую открыть страницу в полноэкранном режиме(F11).
